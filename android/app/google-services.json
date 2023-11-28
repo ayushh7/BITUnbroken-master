@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "181505050880",
+    "firebase_url": "https://bitunbroken-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bitunbroken",
+    "storage_bucket": "bitunbroken.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181505050880:android:5c94ac4fdfbd5186730be5",
+        "android_client_info": {
+          "package_name": "com.ayush.bitunbroken"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181505050880-pfqotcac8g9f0qqjssrbe9moqmlnvmiv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ayush.bitunbroken",
+            "certificate_hash": "6be449ea294a0f36c1b8b48543adca89f8b7e598"
+          }
+        },
+        {
+          "client_id": "181505050880-umte201o4l7pc5f14h61h0a7mf9sa1jn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj8oJBUyUnWvgkGs9NLmFd_vnVIk6RIcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181505050880-umte201o4l7pc5f14h61h0a7mf9sa1jn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
