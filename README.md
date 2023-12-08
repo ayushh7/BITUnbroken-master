@@ -6,10 +6,10 @@ One of the key features is a sophisticated event and job management system, allo
 
 The design philosophy prioritized simplicity and accessibility, resulting in a positive and intuitive user experience. The emphasis on user-centric design has garnered positive feedback, particularly for enhancing alumni connections and fostering increased community engagement. The app stands out for its innovative approach to connecting alumni and facilitating meaningful interactions within the community.
 
-![image](https://github.com/ayushh7/BITUnbroken-master/assets/75851551/5ff7d5df-cfe7-4985-b5e6-4ac4f81cde9f)
+![image](https://github.com/ayushh7/BITUnbroken-master/assets/75851551/5ff7d5df-cfe7-4985-b5e6-4ac4f81cde9f| width=100)
 Login Page
 
-![image](https://github.com/ayushh7/BITUnbroken-master/assets/75851551/5ada1783-564f-4fe1-8c9f-798423d5d8f0)
+![image](https://github.com/ayushh7/BITUnbroken-master/assets/75851551/5ada1783-564f-4fe1-8c9f-798423d5d8f0| width=100)
 SignUp Page
 
 ![image](https://github.com/ayushh7/BITUnbroken-master/assets/75851551/8043295b-462c-4d83-aaa4-5865e1b6783d)
